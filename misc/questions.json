@@ -1,0 +1,26 @@
+[
+	{
+		"domain": 1,
+		"question": "What are the 3 main components of event-driven architecture on AWS?",
+		"answer": "Event producers, Event brokers, and Event consumers",
+		"description": "Event producers: software as a service (SaaS) app, mobile app, ecommerce site</br>Event brokers: event routers, event store</br>Event consumers: database, microservice, SaaS application</br>"
+	},
+	{
+		"domain": 1,
+		"question": "What is event-driven architecture?",
+		"answer": "An event-driven architecture (EDA) is an architecture pattern designed to connect service components and enable complex systems to communicate.",
+		"description": ""
+	},
+	{
+		"domain": 0,
+		"question": "",
+		"answer": "",
+		"description": ""
+	},
+	{
+		"domain": 0,
+		"question": "",
+		"answer": "",
+		"description": ""
+	},
+]
